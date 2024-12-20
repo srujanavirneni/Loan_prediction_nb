@@ -1,0 +1,13 @@
+dill
+fastapi[standard]
+numpy
+pandas
+pydantic
+scikit-learn
+requests
+ydata-profiling
+dagshub
+mlflow
+matplotlib
+joblib
+xgboost
