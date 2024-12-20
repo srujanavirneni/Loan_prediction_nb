@@ -11,3 +11,4 @@ mlflow
 matplotlib
 joblib
 xgboost
+ghp-import
