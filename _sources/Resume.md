@@ -2,7 +2,8 @@
 
 ## Avirneni Srujan's Resume
 
-**Phone:** +1 (716) 277-1597 | **Email:** [srujanav30@gmail.com](mailto:srujanav30@gmail.com) | **LinkedIn:** [linkedin.com/in/Srujan](https://linkedin.com/in/Srujan)
+**Phone:** +1 (716) 277-1597 | **Email:** [srujanav30@gmail.com](mailto:srujanav30@gmail.com) | **LinkedIn:** [linkedin.com/in/Srujan](https://www.linkedin.com/in/srujan-avirneni-b9047b55)
+
 
 ---
 
