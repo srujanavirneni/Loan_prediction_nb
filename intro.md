@@ -17,14 +17,9 @@ Welcome to the comprehensive overview of my Machine Learning project. In this Ju
 
 ---
 
-## Embedded Video 🎥
+## Video Explanation 🎥
 
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/MkSeV1-MIDo" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+- **[Click Here for video](https://buffalo.box.com/s/lbokzmh0ixi2calt39i4q4q76uk07d3j)**
 
 
 ---
