@@ -2,6 +2,9 @@ _build/
 cm_test.txt
 cm_train.txt
 scree_plot.png
+loan_requests.db
+my_data_profile_report.html
+.DS_Store
 
 *.pkl
 # Created by https://www.toptal.com/developers/gitignore/api/python
